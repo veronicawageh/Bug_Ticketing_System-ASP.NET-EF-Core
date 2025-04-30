@@ -23,5 +23,5 @@ A complete backend system for managing bug reports, user roles, projects, and fi
 - Postman (for testing)
 ----
 # Api Endpoints
-POST	/api/users/register	Register a new user account
-POST	/api/users/login	Authenticate user and return a JWT token
+- POST	/api/users/register	Register a new user account
+- POST	/api/users/login	Authenticate user and return a JWT token
